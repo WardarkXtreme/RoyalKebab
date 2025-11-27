@@ -1,0 +1,64 @@
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background: #4b1ea5; /* Violet style enseigne */
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.logo {
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    margin: 0;
+}
+
+.tagline {
+    font-size: 18px;
+    margin-top: -10px;
+}
+
+.info {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.info h2 {
+    font-size: 28px;
+    color: #4b1ea5;
+}
+
+.call-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #4b1ea5;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.call-btn:hover {
+    background: #35147a;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    opacity: 0.7;
+}
